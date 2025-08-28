@@ -7,6 +7,9 @@ The portfolio is designed to be **responsive, modern, and user-friendly**, with 
 
 ## Live Demo
 [Click here to view my portfolio](https://princyjaiswal.netlify.app)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2e53fc9 (Portfolio)
 
 
