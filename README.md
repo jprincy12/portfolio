@@ -8,5 +8,7 @@ The portfolio is designed to be **responsive, modern, and user-friendly**, with 
 
 ## Live Demo
 Click here to view my portfolio: [princyjaiswal.netlify.app]  
+[Click here to view my portfolio](princyjaiswal.netlify.app)  
+(*Replace `#` with your Netlify/Vercel/GitHub Pages link*)
 
 
