@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Administrative Assistant",
+    "organisation": "Ultra Tendency Nepal",
+    "startDate": "Aug, 2022",
+    "endDate": "Oct, 2025",
+    "experiences": [
+      "Coordinated meetings, vendors, and office operations.",
+      "Assisted HR with recruitment and onboarding.",
+      "Supported finance with expenses and invoices.",
+      "Managed events and office inventory.",
+      "Learned: Teamwork, Time Management, Jira, Odoo, SharePoint."
+    ]
+  },
+  {
+    "role": "Customer Support Representative",
+    "organisation": "Krishna Foundation",
+    "startDate": "Sep, 2021",
+    "endDate": "Jan 2022",
+    "experiences": [
+      "Handled inquiries and assisted with admissions.",
+      "Maintained records and ensured client satisfaction.",
+      "Learned: Communication, Customer Support, Documentation."
+    ]
+  }
+]
