@@ -5,8 +5,3 @@ It showcases my **education, experience, skills, and projects** as an aspiring w
 The portfolio is designed to be **responsive, modern, and user-friendly**, with a clean layout and simple navigation.
 
 
-## Live Demo
-[Click here to view my portfolio](#)
-
-
-
