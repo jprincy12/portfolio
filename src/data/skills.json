@@ -7,6 +7,10 @@
     "title": "CSS",
     "imageSrc": "/assets/skills/css.png"
   },
+   {
+    "title": "JavaScript",
+    "imageSrc": "/assets/skills/javascript.png"
+  },
   {
     "title": "React",
     "imageSrc": "/assets/skills/react.png"

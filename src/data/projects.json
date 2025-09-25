@@ -1,26 +1,23 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "/assets/projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["React", "Express", "Node"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "Quiz-Game",
+        "imageSrc": "/assets/projects/quiz-game.png",
+        "description": "A simple JavaScript-based quiz game that displays multiple-choice questions, tracks answers, and shows the final score.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "source": "https://github.com/jprincy12/js-projects/tree/master/quiz-game"
     },
     {
-        "title": "Project B",
-        "imageSrc": "/assets/projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["React", "Express", "Node"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "Calculator",
+        "imageSrc": "/assets/projects/calculator.png",
+        "description": "A basic JavaScript calculator that performs addition, subtraction, multiplication, and division with a clean user interface.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "source": "https://github.com/jprincy12/js-projects/tree/master/calculator"
     },
     {
-        "title": "Project C",
-        "imageSrc": "/assets/projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["React", "Express", "Node"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "To-Do List",
+        "imageSrc": "/assets/projects/to-do.png",
+        "description": "A simple To-Do List application built with HTML, CSS, and JavaScript.",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "source": "https://github.com/jprincy12/js-projects/tree/master/to-do"
     }
 ]
