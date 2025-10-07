@@ -33,7 +33,7 @@ The portfolio is designed to be **responsive, modern, and user-friendly**, with 
 ## 🌐 Visit My Portfolio
 
 Check out my live portfolio here:  
-**[https://your-portfolio-url.netlify.app](https://your-portfolio-url.netlify.app)**
+**(http://princyjaiswal.com.np/)**
 
 ---
 
