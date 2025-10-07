@@ -38,6 +38,12 @@
    
 }
 
+.buttonContainer {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
 .contactBtn{
     text-decoration: none;
     background-color: var(--color-primary);
@@ -47,8 +53,33 @@
     font-weight:600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
-    transition:all0.3s ease;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+}
 
+.downloadBtn{
+    text-decoration: none;
+    background-color: transparent;
+    color: var(--color-text);
+    border: 2px solid var(--color-primary);
+    border-radius: 100px;
+    font-size:30px;
+    font-weight:600;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+}
+
+.contactBtn:hover,
+.downloadBtn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 
 .heroImg{
@@ -116,5 +147,27 @@
     .heroImg{
     width: 50%;
     }
-    
+    .buttonContainer {
+        justify-content: center;
+    }
+    .contactBtn,
+    .downloadBtn {
+        font-size: 24px;
+        padding: 14px 22px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .buttonContainer {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .contactBtn,
+    .downloadBtn {
+        width: 100%;
+        max-width: 280px;
+        font-size: 20px;
+        padding: 12px 20px;
+    }
 }
