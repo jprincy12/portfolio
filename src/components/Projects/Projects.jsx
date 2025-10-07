@@ -13,6 +13,16 @@ export const Projects = () => {
             );
         })}
       </div>
+        <div className={styles.githubContainer}>
+        <a 
+          href="https://github.com/jprincy12" 
+          className={styles.githubButton}
+          target="_blank" 
+          rel="noopener noreferrer"
+        >
+          View All Projects on GitHub
+        </a>
+        </div>
     </section>
   );
 };
