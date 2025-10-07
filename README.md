@@ -33,7 +33,7 @@ The portfolio is designed to be **responsive, modern, and user-friendly**, with 
 ## 🌐 Visit My Portfolio
 
 Check out my live portfolio here:  
-**(http://princyjaiswal.com.np/)**
+**[Portfolio](http://princyjaiswal.com.np/)**
 
 ---
 
